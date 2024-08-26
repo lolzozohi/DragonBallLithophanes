@@ -1,4 +1,3 @@
-<img width="258" alt="Screenshot 2024-08-26 at 12 05 06 PM" src="https://github.com/user-attachments/assets/83c584ef-5e81-41fe-baf0-4748a2c2b95e"># DragonBallLithophanes
 
 STL files of lithophanes I made use of the links provided to view STL at printables.com
 
@@ -24,6 +23,8 @@ https://www.printables.com/model/987282-dragon-ball-lithophanes-mini-set
 24 files
 
 Here are some Photos: 
+
+<img width="258" alt="Screenshot 2024-08-26 at 12 05 06 PM" src="https://github.com/user-attachments/assets/83c584ef-5e81-41fe-baf0-4748a2c2b95e"># DragonBallLithophanes
 <img width="283" alt="Screenshot 2024-08-21 at 10 12 35 AM" src="https://github.com/user-attachments/assets/ecfe3eba-2902-4afb-89a1-280d916c03a4">
 <img width="426" alt="Screenshot 2024-08-21 at 10 13 36 AM" src="https://github.com/user-attachments/assets/084c09ae-6b6a-4783-864f-f644a25254c5">
 <img width="299" alt="Screenshot 2024-08-21 at 6 11 24 PM" src="https://github.com/user-attachments/assets/822a69cb-7f0f-411f-b3ba-a1795c5536f8">
